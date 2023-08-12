@@ -11,7 +11,7 @@
 
 This is the source code of Laravel Firebase integration video tutorial available on youtube. This tutorial uses laravel, firebase, kreait / laravel-firebase plugin, bootstrap 5, and html 5.
 
-- [View complete video tutorial on youtube](https://www.youtube.com/watch?v=YgYpxUwJoPY).
+- [View complete video tutorial on youtube](https://www.youtube.com/watch?v=ILGPC_-9KBM).
 - [Visit youtube channel](https://www.youtube.com/@SCTechStudio).
 - [Visit author's website](https://www.salman.be).
 - [Laravel firebase plugin credit](https://github.com/kreait).
